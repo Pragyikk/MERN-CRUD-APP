@@ -9,22 +9,21 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application demonst
 - MongoDB used for data storage
 
 # Prerequisites
-
--Node.js installed
--Having a MongoDB Atlas account
+- Node.js installed
+- Having a MongoDB Atlas account
 
 # Installation
 
 1. Clone the repository
 
 2. Install backend dependencies and start the server:
--cd ./backend/
--npm install
--npm run dev
+- cd ./backend/
+- npm install
+- npm run dev
 
 3. Install frontend dependencies and start React app:
--cd ./frontend/
--npm install
--npm start
+- cd ./frontend/
+- npm install
+- npm start
 
 4. The react app should be running on http://localhost:3000, and the backend API on http://localhost/5000
